@@ -1,0 +1,108 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elenasoutullo.es" resolutions="1x" timestamp="1528808562723">
+  <folder name="assets">
+    <file name="red-de-piñas.tif" crc="4239969817" seo="true" mt="1528735305000"/>
+    <file name="cv-europass-20180612-soutullo-es.pdf" crc="4158858815" seo="true" mt="1528791219000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4242317560" ref="index"/>
+    <file name="master_a-master.css" crc="3862303386" ref="index:about:galery:contact"/>
+    <file name="about.css" crc="3857846539" ref="about"/>
+    <file name="galery.css" crc="4035710303" ref="galery"/>
+    <file name="contact.css" crc="473398749" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:galery:contact:about"/>
+    <file name="museutils.js" crc="4216313831" ref="index:galery:contact:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:galery:contact:about"/>
+    <file name="museconfig.js" crc="474374037" ref="index:galery:contact:about"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:galery:contact:about"/>
+    <file name="require.js" crc="3951022091" ref="index:galery:contact:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:galery:contact:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:galery:contact:about"/>
+    <file name="webpro.js" crc="4143865194" ref="galery:about"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="galery"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="galery"/>
+    <file name="touchswipe.js" crc="4200445185" ref="galery"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="about"/>
+  </folder>
+  <folder name="images">
+    <file name="trescuartosaker-page-fr.png" crc="19037169" ref="index"/>
+    <file name="insta.png" crc="4025504037" seo="true" ref="index:galery:contact:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook.png" crc="14708397" seo="true" ref="index:galery:contact:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-01-10 a las 224925.jpg" crc="3996727165" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="galery"/>
+    <file name="image00001.jpg" crc="3902224017" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00002.jpg" crc="4212167104" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00003.jpg" crc="4046645869" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00004.jpg" crc="4119081228" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00005.jpg" crc="4113442923" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00006.jpg" crc="3930161330" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00007.jpg" crc="3825892605" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00008.jpg" crc="13584012" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00009.jpg" crc="4138448864" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00010.jpg" crc="461716266" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00012.jpg" crc="8489789" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00013.jpg" crc="424484323" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="image00014.jpg" crc="4224238588" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="trescuartosaker675x478.png" crc="417162687" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-04-19 a las 10035.jpg" crc="259735513" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="fin.jpg" crc="536213261" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="lepton.jpg" crc="4081663246" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="tempestia.jpg" crc="190961733" seo="true" ref="galery">
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="galery"/>
+  </folder>
+  <file name="index.html" crc="3967297669" seo="true" mt="1528808480559" redirect="true"/>
+  <file name="galery.html" crc="4199608465" seo="true" mt="1528805527393" redirect="true"/>
+  <file name="contact.html" crc="263099129" seo="true" mt="1528808430297" redirect="true"/>
+  <file name="about.html" crc="4263409877" seo="true" mt="1528807861006" redirect="true"/>
+</manifest>
